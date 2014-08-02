@@ -1,0 +1,6 @@
+Name: HAProxy
+Description: An example haproxy module
+Author: jan gehring <jan.gehring@gmail.com>
+License: Apache 2.0
+Require:
+  - Rex::Ext::ParamLookup
